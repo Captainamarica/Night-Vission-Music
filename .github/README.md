@@ -1,8 +1,8 @@
-<img src="https://telegra.ph/file/edc1727f6afdeb378fce3.jpg" align="right" width="250" height="250"/>
+<img src="https://te.legra.ph/file/354bee41b0089d9f3c621.jpg" align="right" width="250" height="250"/>
 
-# Dark Music Bot <img src="https://img.shields.io/github/v/release/TEAM-DARK-MUSIC/DarkMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Night Vission Music Bot <img src="https://img.shields.io/github/v/release/TEAM-DARK-MUSIC/DarkMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Dark Music Bot](https://github.com/TEAM-DARK-MUSIC/DarkMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Dark Music Bot](https://github.com/Captainamarica/Night-Vission-Music) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -62,7 +62,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TEAM-DARK-MUSIC/DarkMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Captainamarica/Night-Vission-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
 
