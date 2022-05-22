@@ -1,7 +1,7 @@
 {
-    "name": "Dark Music Bot",
+    "name": "Night Vission Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://te.legra.ph/file/833ea354692e11ae8cea2.jpg",
+    "logo": "https://te.legra.ph/file/354bee41b0089d9f3c621.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/TEAM-DARK-MUSIC/DarkMusicBot/",
+    "repository": "https://github.com/Captainamarica/Night-Vission-Music",
     "stack": "container",
     "env": {
       "API_ID": {
